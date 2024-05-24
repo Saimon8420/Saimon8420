@@ -41,9 +41,9 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/> 
   </a>
-  <a href="https://www.framer.com/" target="_blank" rel="noreferrer">
+<!--   <a href="https://www.framer.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/framer/framer-original.svg" alt="framer" width="40" height="40"/> 
-  </a>
+  </a> -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
   </a>
@@ -80,9 +80,9 @@
   <a href="https://redux.js.org" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
   </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+<!--   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40" height="40"/> 
-  </a>
+  </a> -->
 </p>
 
 
