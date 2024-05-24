@@ -10,9 +10,9 @@
 </p>
 
 - 🔭 I’m currently working on an AI-driven project titled **"Planpost AI"**.
-- 🌱 I’m currently learning **full-stack development with the MERN stack**.
+- 🌱 I’m currently learning **Full-stack development with the MERN stack**.
 - 👨‍💻 All of my projects are available at [My Portfolio](https://darling-pithivier-cad7d7.netlify.app/)
-- 💬 Ask me about **React.js, Node.js, Python, C**.
+- 💬 Ask me about **React.js, Node.js,  Python, JavaScript, C, Java etc**.
 - 📫 How to reach me **latifulkabir567@gmail.com**
 
 <hr/>
