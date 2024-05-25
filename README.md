@@ -6,7 +6,7 @@
 <h3 align="center">A passionate Software Developer from Bangladesh</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;AI+Enthusiast;Lifelong+Learner" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;AI+Enthusiast;Lifelong+Learner;Open+Source+Contributor;Tech+Blogger;Hackathon+Winner;Community+Mentor;Performance+Optimizer;UI/UX+Advocate;Cloud+Enthusiast;Continuous+Integrator;Agile+Practitioner;Tech+Stack+Explorer" alt="Typing SVG">
 </p>
 
 - 🔭 I’m currently working on an AI-driven project titled **"Planpost AI"**.
