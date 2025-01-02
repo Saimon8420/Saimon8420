@@ -20,6 +20,16 @@
 <img src="https://codestats-readme.wegfan.cn/history-graph/latiful_kabir?history_days=30&max_languages=6&bg_color=111&text_color=aaa&grid_color=333">
 <hr/>
 
+<div>
+<img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saimon8420&theme=solarized_dark" />
+<img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saimon8420&theme=solarized_dark" />
+<img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saimon8420&theme=solarized_dark" />
+<img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=saimon8420&theme=solarized_dark" />
+<img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saimon8420&theme=solarized_dark&utcOffset=8" />
+<img height="240" src="https://github-readme-activity-graph.vercel.app/graph?username=saimon8420&bg_color=073642&color=1a73e8&line=859900&point=da5b0b&area=true&hide_border=true" />
+</div>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/latiful-kabir567/" target="blank">
