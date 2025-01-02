@@ -17,7 +17,7 @@
 - 📫 How to reach me **latifulkabir567@gmail.com**
 
 <hr/>
-![My Code::Stats history graph](https://codestats-readme.wegfan.cn/history-graph/latiful_kabir?history_days=30&max_languages=6&bg_color=111&text_color=aaa&grid_color=333&language_colors=["3F3B6C","A3C7D6","AE445A","EEE4B1","00E676","FF1493","EDDFE0","FFB38E","31511E"])
+<img src="https://codestats-readme.wegfan.cn/history-graph/latiful_kabir?history_days=30&max_languages=6&bg_color=111&text_color=aaa&grid_color=333">
 <hr/>
 
 <h3 align="left">Connect with me:</h3>
