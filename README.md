@@ -1,5 +1,5 @@
 <p align="center">
-<!--   <img src="https://scontent.fdac138-1.fna.fbcdn.net/v/t39.30808-6/321913133_1114022949215603_8030337642740072074_n.jpg?stp=dst-jpg_p720x720&_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeHwIJd60nlyjyxi-NRq3Om3D-SkQgP4qAUP5KRCA_ioBcHIMH14HKEUo0XOHsBvkBdf9YJEqwCUIDfxxomg7D8l&_nc_ohc=D_gvYdzQpJAQ7kNvgGR_Vct&_nc_ht=scontent.fdac138-1.fna&oh=00_AYCM8s1pDPVaudNRgWxvMzmm0psceRQkGfKr6Bds0OdkbQ&oe=66565C7A" alt="Md.Latiful Kabir" width="720" height="350"/> -->
+  <img src="https://scontent.fdac138-1.fna.fbcdn.net/v/t39.30808-6/321913133_1114022949215603_8030337642740072074_n.jpg?stp=dst-jpg_p720x720&_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeHwIJd60nlyjyxi-NRq3Om3D-SkQgP4qAUP5KRCA_ioBcHIMH14HKEUo0XOHsBvkBdf9YJEqwCUIDfxxomg7D8l&_nc_ohc=D_gvYdzQpJAQ7kNvgGR_Vct&_nc_ht=scontent.fdac138-1.fna&oh=00_AYCM8s1pDPVaudNRgWxvMzmm0psceRQkGfKr6Bds0OdkbQ&oe=66565C7A" alt="Md.Latiful Kabir" width="720" height="350"/>
 </p>
 
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Titillium+Web&weight=700&size=35&pause=200000&color=F7F7F7&background=0B0B0B&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Md.+Latiful+Kabir" alt="Typing SVG" /></a></h1>
@@ -11,9 +11,9 @@
 </p>
 
 - 🔭 I’m currently working on an AI-driven project titled **"Planpost AI"**.
-- 🌱 I’m currently learning **Full-stack development with the MERN stack**.
+- 🌱 I’m currently learning **Rust and GoLang**.
 - 👨‍💻 All of my projects are available at [My Portfolio](https://darling-pithivier-cad7d7.netlify.app/)
-- 💬 Ask me about **React.js, Node.js,  Python, JavaScript, C, Java etc**.
+- 💬 Ask me about **React.js,Next.js, Node.js, Python, JavaScript, C, Java etc**.
 - 📫 How to reach me **latifulkabir567@gmail.com**
 
 <hr/>
