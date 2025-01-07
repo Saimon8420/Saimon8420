@@ -8,8 +8,8 @@
 
 - 🔭 I’m currently working on an AI-driven project titled **"Planpost AI"**.
 - 🌱 I’m currently learning **Rust and GoLang**.
-- 👨‍💻 All of my projects are available at [My Portfolio](https://darling-pithivier-cad7d7.netlify.app/)
-- 💬 Ask me about **React.js,Next.js, Node.js, Python, JavaScript, C, Java etc**.
+- 👨‍💻 All of my projects are available at [My Portfolio](https://my-portfolio-mdlatiful-kabirs-projects.vercel.app/)
+- 💬 Ask me about **React.js, Next.js, Node.js, Python, JavaScript, C, Java etc**.
 - 📫 How to reach me **latifulkabir567@gmail.com**
 
 <hr/>
