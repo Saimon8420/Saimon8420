@@ -14,15 +14,12 @@
 <h3 align="center">Crafting Scalable Solutions | Passionate Coder from Bangladesh 🇧🇩</h3>
 
 <!-- Dynamic Visitor & Trophy Section -->
-<div align="center" style="margin-top:5px;">
-  <!-- Glowing Visitor Badge -->
-  <a href="https://komarev.com/ghpvc/">
+<div align="center">
+  <!-- Styled Container for Trophies -->
+  <div style="border: 2px solid #4A90E2; border-radius: 10px; padding: 15px; margin-top:15px; background-color: #f8f9fa;">
+    <a href="https://komarev.com/ghpvc/">
     <img src="https://komarev.com/ghpvc/?username=saimon8420&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
   </a>
-  <!-- Trophy Case -->
-  <br/>
-  <!-- Styled Container for Trophies -->
-  <div style="border: 2px solid #4A90E2; border-radius: 10px; padding: 15px; margin-top:5px; background-color: #f8f9fa;">
     <h3 align="center" style="color: #4A90E2; margin-top: 0px;">🏆 My GitHub Achievements</h3>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
       <img src="https://github-profile-trophy.vercel.app/?username=saimon8420&theme=onedark&column=7&margin-w=10&margin-h=10&no-bg=true&no-frame=true" alt="Trophies" />
