@@ -163,5 +163,5 @@ I'm always open to discussing new opportunities, collaborating on projects, or j
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=4A90E2&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+Star+my+repos+if+you+like+%F0%9F%98%8A;Let's+build+the+future+together!+%F0%9F%9A%80" alt="Thanks for visiting!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=4A90E2&center=true&vCenter=true&width=550&lines=Thanks+for+visiting!+Star+my+repos+if+you+like+%F0%9F%98%8A;Let's+build+the+future+together!+%F0%9F%9A%80" alt="Thanks for visiting!" />
 </p>
