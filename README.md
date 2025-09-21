@@ -1,7 +1,7 @@
 <!-- Improved Header with Animated Text -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=4A90E2&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Md.+Latiful+Kabir;Full-Stack+Developer+%F0%9F%92%BB;AI+%26+Cloud+Enthusiast+%F0%9F%9A%80;Open+Source+Contributor+%F0%9F%8C%8D" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=4A90E2&center=true&vCenter=true&width=500&lines=I'm+Md.+Latiful+Kabir;Full-Stack+Developer+%F0%9F%92%BB;AI+%26+Cloud+Enthusiast+%F0%9F%9A%80;Open+Source+Contributor+%F0%9F%8C%8D" alt="Typing SVG" />
   </a>
 </h1>
 
