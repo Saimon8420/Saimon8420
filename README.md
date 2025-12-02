@@ -32,7 +32,7 @@
 
 I'm a passionate and results-driven **Full-Stack Developer** based in the beautiful Bangladesh, dedicated to building robust, scalable, and user-friendly web applications. My journey in tech is fueled by curiosity and a constant desire to learn and grow.
 
-- 🔭 **Currently working on:** [Affpilot AI](https://github.com/Saimon8420/affpilot-ai) - An AI-driven content planning tool.
+- 🔭 **Currently working on:** [FlowGenx-AI](https://github.com/Saimon8420/flowgenx-ai)
 - 🌱 **Currently learning:** **Rust** and **GoLang** to expand my backend/tooling capabilities.
 - 💼 **Open to:** Collaboration on interesting projects and potential opportunities.
 - 💬 **Ask me about:** React.js, Next.js, Node.js, Python, JavaScript, C, Java, or anything tech-related!
