@@ -19,11 +19,11 @@
   <div style="border: 2px solid #4A90E2; border-radius: 10px; padding: 15px; margin-top:15px; background-color: #f8f9fa;">
     <a href="https://komarev.com/ghpvc/">
     <img src="https://komarev.com/ghpvc/?username=saimon8420&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
-  </a>
+  <!-- </a>
     <h3 align="center" style="color: #4A90E2; margin-top: 0px;">🏆 My GitHub Achievements</h3>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
       <img src="https://github-profile-trophy.vercel.app/?username=saimon8420&theme=onedark&column=7&margin-w=10&margin-h=10&no-bg=true&no-frame=true" alt="Trophies" />
-    </a>
+    </a> -->
   </div>
 </div>
 
@@ -121,9 +121,9 @@ I'm a passionate and results-driven **Full-Stack Developer** based in the beauti
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=saimon8420&bg_color=ffffff&color=708090&line=4A90E2&point=4A90E2&area=true&hide_border=true" />
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://codestats-readme.wegfan.cn/history-graph/latiful_kabir?history_days=30&max_languages=6&bg_color=ffffff&text_color=333&grid_color=ddd" />
-</div>
+</div> -->
 
 <!-- Unique Skill Progress Bars -->
 ## 🚀 My Skill Levels
