@@ -36,7 +36,7 @@ I'm a passionate and results-driven **Full-Stack Developer** based in the beauti
 - 🌱 **Currently learning:** **Rust** and **GoLang** to expand my backend/tooling capabilities.
 - 💼 **Open to:** Collaboration on interesting projects and potential opportunities.
 - 💬 **Ask me about:** React.js, Next.js, Node.js, Python, JavaScript, C, Java, or anything tech-related!
-- 📫 **Reach me at:** <a href="mailto:latifulkabir567@gmail.com">latifulkabir567@gmail.com</a>
+- 📫 **Reach me at:** <a href="mailto:latiful.dev@gmail.com">latiful.dev@gmail.com</a>
 - 🌐 **Portfolio:** <a href="https://my-portfolio-mdlatiful-kabirs-projects.vercel.app/" target="_blank">My Portfolio</a>
 
 <!-- Glowing Tech Stack Section -->
@@ -152,7 +152,7 @@ I'm always open to discussing new opportunities, collaborating on projects, or j
   <a href="https://instagram.com/l.kabir567/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" />
   </a>
-  <a href="mailto:latifulkabir567@gmail.com">
+  <a href="mailto:latiful.dev@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" />
   </a>
 </p>
