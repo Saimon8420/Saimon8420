@@ -1,167 +1,138 @@
-<!-- Hero Section with Custom Gradient Wave -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header"/>
-</p>
-
-<!-- Animated Typing Header -->
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=4A90E2&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Md.+Latiful+Kabir;Full-Stack+Developer+%F0%9F%92%BB;AI+%26+Cloud+Enthusiast+%F0%9F%9A%80;Open+Source+Contributor+%F0%9F%8C%8D;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
-  </a>
-</h1>
-
-<!-- Subtitle -->
-<h3 align="center">Crafting Scalable Solutions | Passionate Coder from Bangladesh 🇧🇩</h3>
-
-<!-- Dynamic Visitor & Trophy Section -->
+<!-- ╔═══════════════════════════  HEADER  ═══════════════════════════╗ -->
 <div align="center">
-  <!-- Styled Container for Trophies -->
-  <div style="border: 2px solid #4A90E2; border-radius: 10px; padding: 15px; margin-top:15px; background-color: #f8f9fa;">
-    <a href="https://komarev.com/ghpvc/">
-    <img src="https://komarev.com/ghpvc/?username=saimon8420&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
-  <!-- </a>
-    <h3 align="center" style="color: #4A90E2; margin-top: 0px;">🏆 My GitHub Achievements</h3>
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=saimon8420&theme=onedark&column=7&margin-w=10&margin-h=10&no-bg=true&no-frame=true" alt="Trophies" />
-    </a> -->
-  </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:DB2777,100:06B6D4&height=200&section=header&text=Md.%20Latiful%20Kabir&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Software%20Engineer%20%C2%B7%20I%20build%20%26%20ship%20real%20products&descSize=18&descAlignY=56" width="100%" alt="header" />
+
+<a href="https://my-portfolio-seven-delta-60.vercel.app">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=680&lines=Full-Stack+Software+Engineer+%40+FlowGenX+AI;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+Node+%C2%B7+FastAPI;Shipped+products+used+by+90%2C000%2B+people;40%2B+live+apps+%26+free+public+APIs+%E2%80%94+and+counting;Currently+exploring+Rust+%26+Go" alt="roles" />
+</a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Saimon8420&label=Profile%20views&color=8b5cf6&style=flat-square" alt="views" />
+<img src="https://img.shields.io/badge/Based%20in-Bangladesh%20%F0%9F%87%A7%F0%9F%87%A9-06b6d4?style=flat-square" alt="location" />
+<img src="https://img.shields.io/badge/Open%20to-Opportunities-22c55e?style=flat-square" alt="open to work" />
+
 </div>
 
-<!-- About Me Section -->
-## 👨‍💻 About Me
+<!-- ╔═══════════════════════════  ABOUT  ════════════════════════════╗ -->
 
-I'm a passionate and results-driven **Full-Stack Developer** based in the beautiful Bangladesh, dedicated to building robust, scalable, and user-friendly web applications. My journey in tech is fueled by curiosity and a constant desire to learn and grow.
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;whoami
 
-- 🔭 **Currently working on:** [FlowGenx-AI](https://github.com/flowgenx-ai)
-- 🌱 **Currently learning:** **Rust** and **GoLang** to expand my backend/tooling capabilities.
-- 💼 **Open to:** Collaboration on interesting projects and potential opportunities.
-- 💬 **Ask me about:** React.js, Next.js, Node.js, Python, JavaScript, C, Java, or anything tech-related!
-- 📫 **Reach me at:** <a href="mailto:latiful.dev@gmail.com">latiful.dev@gmail.com</a>
-- 🌐 **Portfolio:** <a href="https://my-portfolio-mdlatiful-kabirs-projects.vercel.app/" target="_blank">My Portfolio</a>
+```ts
+const latiful = {
+  role:      "Full-Stack Software Engineer @ FlowGenX AI (Gen-AI)",
+  stack:     ["TypeScript", "React/Next", "Node", "Python/FastAPI"],
+  shipped:   "40+ live web products · 90,000+ users reached",
+  building:  "free, no-key public APIs + in-browser AI tools",
+  exploring: ["Rust", "Go"],
+  motto:     "clean, practical code that actually solves problems",
+};
+```
 
-<!-- Glowing Tech Stack Section -->
-## 🛠️ My Tech Arsenal
+- 🤖 &nbsp;Building **agentic-AI integrations** at FlowGenX AI — connectors, workflows, enterprise automation.
+- 🚀 &nbsp;Led the front end of **Affpilot AI** (an AI content platform with **90k+ global users**).
+- 🧪 &nbsp;Slightly obsessed with **shipping** — I turn ideas into live products fast, end-to-end.
+- 🌱 &nbsp;Currently leveling up in **Rust** & **Go**.
+- 📫 &nbsp;Reach me → **latiful.dev@gmail.com**
 
-### Languages
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" alt="typescript logo" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="java logo" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="45" alt="go logo" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="45" alt="rust logo" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45" alt="c logo" />
-</p>
+<!-- ╔═══════════════════════════  SHIPPED  ══════════════════════════╗ -->
 
-### Frontend
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="react logo" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="45" alt="nextjs logo" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="45" alt="redux logo" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5 logo" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="css3 logo" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="45" alt="bootstrap logo" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="45" alt="materialui logo" />
-</p>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;Things I've actually shipped
 
-### Backend & Databases
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" alt="nodejs logo" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="45" alt="express logo" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45" alt="mongodb logo" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45" alt="postgresql logo" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="mysql logo" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="45" alt="firebase logo" />
-</p>
+> A few of the **40+ live** products I've built — including a suite of **free, public, no-key REST APIs** (pure-computation engines, no tracking).
 
-### Tools & DevOps
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="git logo" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="github logo" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" alt="docker logo" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="45" alt="jest logo" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="45" alt="storybook logo" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="45" alt="jira logo" />
-</p>
-
-<!-- Unique Animated Stats Section -->
-## 📊 GitHub Analytics Dashboard
+| Project | What it is | Built with | |
+| :-- | :-- | :-- | :-: |
+| 🧬 **Rave** | Free public **Human Design** API — full BodyGraph, charts & transits | `TS` · `Express` · `astronomy-engine` | [![Live](https://img.shields.io/badge/Live-8b5cf6?style=flat-square&logo=vercel&logoColor=white)](https://rave-swart.vercel.app) |
+| 🔮 **Astraea** | Free public **Astrology** API — natal, transits, synastry, interpretations | `TS` · `Express` · `astronomy-engine` | [![Live](https://img.shields.io/badge/Live-8b5cf6?style=flat-square&logo=vercel&logoColor=white)](https://astraea-dev.vercel.app) |
+| ✍️ **Doetra** | AI **SEO article-generator SaaS** — built solo, end-to-end | `Next` · `Node` · `Mongo` · `Stripe` | [![Live](https://img.shields.io/badge/Live-ec4899?style=flat-square&logo=vercel&logoColor=white)](https://app.doetra.com) |
+| ✂️ **Poof** | In-browser **AI background remover** — runs fully client-side | `React` · `ONNX` · `WebGPU` | [![Live](https://img.shields.io/badge/Live-ec4899?style=flat-square&logo=vercel&logoColor=white)](https://poof-eight.vercel.app) |
+| 🔎 **Sift** | **Semantic search** across your own files, 100% in-browser | `React` · `Transformers.js` | [![Live](https://img.shields.io/badge/Live-06b6d4?style=flat-square&logo=vercel&logoColor=white)](https://sift-henna.vercel.app) |
+| 🎨 **Hueology** | **Color-palette studio** — extract palettes & check WCAG contrast | `React` · `color-science` | [![Live](https://img.shields.io/badge/Live-06b6d4?style=flat-square&logo=vercel&logoColor=white)](https://hueology.vercel.app) |
 
 <div align="center">
-  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saimon8420&theme=vue" />
-  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saimon8420&theme=vue" />
-  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saimon8420&theme=vue" />
-  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=saimon8420&theme=vue" />
-  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saimon8420&theme=vue&utcOffset=6" />
+  <a href="https://my-portfolio-seven-delta-60.vercel.app">
+    <img src="https://img.shields.io/badge/%E2%86%92%20explore%20all%2040%2B%20products%20on%20my%20portfolio-1f2937?style=for-the-badge&logo=vercel&logoColor=8b5cf6" alt="portfolio" />
+  </a>
+</div>
+
+<!-- ╔═══════════════════════════  STACK  ════════════════════════════╗ -->
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> &nbsp;Tech I build with
+
+**Languages**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
+
+**Data & Cloud**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+<!-- ╔═══════════════════════════  STATS  ════════════════════════════╗ -->
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="26"> &nbsp;GitHub in numbers
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Saimon8420&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=8b5cf6&icon_color=06b6d4&text_color=9f9fa9&bg_color=0d1117" alt="stats" />
+  <img height="170" src="https://streak-stats.demolab.com?user=Saimon8420&hide_border=true&background=0d1117&stroke=8b5cf6&ring=ec4899&fire=ec4899&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=8b5cf6&sideLabels=9f9fa9&dates=636e7a" alt="streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saimon8420&bg_color=ffffff&color=708090&line=4A90E2&point=4A90E2&area=true&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saimon8420&layout=compact&hide_border=true&langs_count=10&title_color=8b5cf6&text_color=9f9fa9&bg_color=0d1117" alt="top langs" />
 </div>
 
-<!-- <div align="center">
-  <img src="https://codestats-readme.wegfan.cn/history-graph/latiful_kabir?history_days=30&max_languages=6&bg_color=ffffff&text_color=333&grid_color=ddd" />
-</div> -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saimon8420&bg_color=0d1117&color=a78bfa&line=ec4899&point=06b6d4&area=true&hide_border=true" alt="activity graph" width="95%" />
+</div>
 
-<!-- Unique Skill Progress Bars -->
-## 🚀 My Skill Levels
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Saimon8420&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies" />
+</div>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,python,go,rust,mongodb,postgresql,docker,git" />
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,firebase,linux,bash,figma,vscode,github,stackoverflow" />
-  </a>
-</p>
+<!-- ╔═══════════════════════════  CONNECT  ══════════════════════════╗ -->
 
-<!-- Unique Connect Section with Animated Icons -->
-## 🤝 Let's Connect & Collaborate
+## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="28"> &nbsp;Let's connect
 
-I'm always open to discussing new opportunities, collaborating on projects, or just having a chat about technology. Let's build something amazing together!
+<div align="center">
 
-<p align="center">
-  <a href="https://linkedin.com/in/latiful-kabir567/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" />
-  </a>
-  <a href="https://fb.com/l.kabir567" target="_blank">
-    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/l.kabir567/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" />
-  </a>
-  <a href="mailto:latiful.dev@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" />
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/latiful-kabir567/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+<a href="https://my-portfolio-seven-delta-60.vercel.app"><img src="https://img.shields.io/badge/Portfolio-8b5cf6?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" /></a>
+<a href="mailto:latiful.dev@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
+<a href="https://fb.com/l.kabir567"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" /></a>
+<a href="https://instagram.com/l.kabir567/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" /></a>
 
-<!-- Unique Footer with Custom Message -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=4A90E2&center=true&vCenter=true&width=550&lines=Thanks+for+visiting!+Star+my+repos+if+you+like+%F0%9F%98%8A;Let's+build+the+future+together!+%F0%9F%9A%80" alt="Thanks for visiting!" />
-</p>
+<br/>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=A78BFA&center=true&vCenter=true&width=520&lines=Thanks+for+stopping+by+%E2%9C%A8;Let's+build+something+people+actually+use." alt="outro" />
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:DB2777,100:6D28D9&height=120&section=footer" width="100%" alt="footer" />
