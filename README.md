@@ -1,7 +1,7 @@
 <!-- ╔═══════════════════════════  HEADER  ═══════════════════════════╗ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:DB2777,100:06B6D4&height=200&section=header&text=Md.%20Latiful%20Kabir&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Software%20Engineer%20%C2%B7%20I%20build%20%26%20ship%20real%20products&descSize=18&descAlignY=56" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:6D28D9,50:DB2777,100:06B6D4&amp;height=200&amp;section=header&amp;text=Md.%20Latiful%20Kabir&amp;fontSize=46&amp;fontColor=ffffff&amp;fontAlignY=36&amp;desc=Full-Stack%20Software%20Engineer%20%C2%B7%20I%20build%20%26%20ship%20real%20products&amp;descSize=18&amp;descAlignY=56" width="100%" alt="header" />
 
 <a href="https://my-portfolio-seven-delta-60.vercel.app">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=680&lines=Full-Stack+Software+Engineer+%40+FlowGenX+AI;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+Node+%C2%B7+FastAPI;Shipped+products+used+by+90%2C000%2B+people;40%2B+live+apps+%26+free+public+APIs+%E2%80%94+and+counting;Currently+exploring+Rust+%26+Go" alt="roles" />
@@ -135,4 +135,4 @@ const latiful = {
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=A78BFA&center=true&vCenter=true&width=520&lines=Thanks+for+stopping+by+%E2%9C%A8;Let's+build+something+people+actually+use." alt="outro" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:DB2777,100:6D28D9&height=120&section=footer" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:06B6D4,50:DB2777,100:6D28D9&amp;height=120&amp;section=footer" width="100%" alt="footer" />
