@@ -99,20 +99,20 @@ const latiful = {
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="26"> &nbsp;GitHub in numbers
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Saimon8420&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=8b5cf6&icon_color=06b6d4&text_color=9f9fa9&bg_color=0d1117" alt="stats" />
-  <img height="170" src="https://streak-stats.demolab.com?user=Saimon8420&hide_border=true&background=0d1117&stroke=8b5cf6&ring=ec4899&fire=ec4899&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=8b5cf6&sideLabels=9f9fa9&dates=636e7a" alt="streak" />
+  <img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saimon8420&theme=radical" alt="overview" />
 </div>
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saimon8420&layout=compact&hide_border=true&langs_count=10&title_color=8b5cf6&text_color=9f9fa9&bg_color=0d1117" alt="top langs" />
+  <img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Saimon8420&theme=radical" alt="repos per language" />
+  <img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Saimon8420&theme=radical" alt="most committed language" />
+</div>
+
+<div align="center">
+  <img height="175" src="https://streak-stats.demolab.com?user=Saimon8420&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="streak" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saimon8420&bg_color=0d1117&color=a78bfa&line=ec4899&point=06b6d4&area=true&hide_border=true" alt="activity graph" width="95%" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Saimon8420&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies" />
 </div>
 
 <!-- ╔═══════════════════════════  CONNECT  ══════════════════════════╗ -->
