@@ -46,6 +46,7 @@ const latiful = {
 | :-- | :-- | :-- | :-: |
 | 🧬 **Rave** | Free public **Human Design** API — full BodyGraph, charts & transits | `TS` · `Express` · `astronomy-engine` | [![Live](https://img.shields.io/badge/Live-8b5cf6?style=flat-square&logo=vercel&logoColor=white)](https://rave-swart.vercel.app) |
 | 🔮 **Astraea** | Free public **Astrology** API — natal, transits, synastry, interpretations | `TS` · `Express` · `astronomy-engine` | [![Live](https://img.shields.io/badge/Live-8b5cf6?style=flat-square&logo=vercel&logoColor=white)](https://astraea-dev.vercel.app) |
+| 🔭 **Orrery** | Free public **Astronomy** API — positions, rise/set, eclipse prediction, seasons & conjunctions | `TS` · `Express` · `astronomy-engine` | [![Live](https://img.shields.io/badge/Live-8b5cf6?style=flat-square&logo=vercel&logoColor=white)](https://orrery-dev.vercel.app) |
 | ✍️ **Doetra** | AI **SEO article-generator SaaS** — built solo, end-to-end | `Next` · `Node` · `Mongo` · `Stripe` | [![Live](https://img.shields.io/badge/Live-ec4899?style=flat-square&logo=vercel&logoColor=white)](https://app.doetra.com) |
 | ✂️ **Poof** | In-browser **AI background remover** — runs fully client-side | `React` · `ONNX` · `WebGPU` | [![Live](https://img.shields.io/badge/Live-ec4899?style=flat-square&logo=vercel&logoColor=white)](https://poof-eight.vercel.app) |
 | 🔎 **Sift** | **Semantic search** across your own files, 100% in-browser | `React` · `Transformers.js` | [![Live](https://img.shields.io/badge/Live-06b6d4?style=flat-square&logo=vercel&logoColor=white)](https://sift-henna.vercel.app) |
