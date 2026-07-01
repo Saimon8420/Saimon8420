@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:6D28D9,50:DB2777,100:06B6D4&amp;height=200&amp;section=header&amp;text=Md.%20Latiful%20Kabir&amp;fontSize=46&amp;fontColor=ffffff&amp;fontAlignY=36&amp;desc=Full-Stack%20Software%20Engineer%20%C2%B7%20I%20build%20and%20ship%20real%20products&amp;descSize=18&amp;descAlignY=56" width="100%" alt="header" />
 
 <a href="https://my-portfolio-seven-delta-60.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=680&lines=Full-Stack+Software+Engineer+%40+FlowGenX+AI;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+Node+%C2%B7+FastAPI;Shipped+products+used+by+90%2C000%2B+people;40%2B+live+apps+%26+free+public+APIs+%E2%80%94+and+counting;Currently+exploring+Rust+%26+Go" alt="roles" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=680&lines=Full-Stack+Software+Engineer+%40+FlowGenX+AI;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+Node+%C2%B7+FastAPI;Shipped+products+used+by+90%2C000%2B+people;60%2B+live+apps+%26+free+public+APIs+%E2%80%94+and+counting;Currently+exploring+Rust+%26+Go" alt="roles" />
 </a>
 
 <br/>
@@ -23,7 +23,7 @@
 const latiful = {
   role:      "Full-Stack Software Engineer @ FlowGenX AI (Gen-AI)",
   stack:     ["TypeScript", "React/Next", "Node", "Python/FastAPI"],
-  shipped:   "40+ live web products · 90,000+ users reached",
+  shipped:   "60+ live web products · 90,000+ users reached",
   building:  "free, no-key public APIs + in-browser AI tools",
   exploring: ["Rust", "Go"],
   motto:     "clean, practical code that actually solves problems",
@@ -40,21 +40,22 @@ const latiful = {
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;Things I've actually shipped
 
-> A few of the **40+ live** products I've built — including a suite of **free, public, no-key REST APIs** (pure-computation engines, no tracking).
+> A few of the **60+ live** products I've built — including a suite of **free, public, no-key REST APIs** (pure-computation engines, no tracking).
 
 | Project | What it is | Built with | |
 | :-- | :-- | :-- | :-: |
-| 🧬 **Rave** | Free public **Human Design** API — full BodyGraph, charts & transits | `TS` · `Express` · `astronomy-engine` | [![Live](https://img.shields.io/badge/Live-8b5cf6?style=flat-square&logo=vercel&logoColor=white)](https://rave-swart.vercel.app) |
-| 🔮 **Astraea** | Free public **Astrology** API — natal, transits, synastry, interpretations | `TS` · `Express` · `astronomy-engine` | [![Live](https://img.shields.io/badge/Live-8b5cf6?style=flat-square&logo=vercel&logoColor=white)](https://astraea-dev.vercel.app) |
+| 🕌 **Miqaat** | Free public **Islamic prayer-times & fasting** API — schedule, Hijri calendar, Qibla | `TS` · `Express` · `adhan` | [![Live](https://img.shields.io/badge/Live-8b5cf6?style=flat-square&logo=vercel&logoColor=white)](https://miqaat-dev.vercel.app) |
+| 🌅 **Horizon** | Free public **Sun & Moon** API — sunrise/set, twilight, moon phases & forecasts | `TS` · `Express` · `SunCalc` | [![Live](https://img.shields.io/badge/Live-8b5cf6?style=flat-square&logo=vercel&logoColor=white)](https://horizon-prod-lk.vercel.app) |
 | 🔭 **Orrery** | Free public **Astronomy** API — positions, rise/set, eclipse prediction, seasons & conjunctions | `TS` · `Express` · `astronomy-engine` | [![Live](https://img.shields.io/badge/Live-8b5cf6?style=flat-square&logo=vercel&logoColor=white)](https://orrery-dev.vercel.app) |
 | ✍️ **Doetra** | AI **SEO article-generator SaaS** — built solo, end-to-end | `Next` · `Node` · `Mongo` · `Stripe` | [![Live](https://img.shields.io/badge/Live-ec4899?style=flat-square&logo=vercel&logoColor=white)](https://app.doetra.com) |
 | ✂️ **Poof** | In-browser **AI background remover** — runs fully client-side | `React` · `ONNX` · `WebGPU` | [![Live](https://img.shields.io/badge/Live-ec4899?style=flat-square&logo=vercel&logoColor=white)](https://poof-eight.vercel.app) |
-| 🔎 **Sift** | **Semantic search** across your own files, 100% in-browser | `React` · `Transformers.js` | [![Live](https://img.shields.io/badge/Live-06b6d4?style=flat-square&logo=vercel&logoColor=white)](https://sift-henna.vercel.app) |
-| 🎨 **Hueology** | **Color-palette studio** — extract palettes & check WCAG contrast | `React` · `color-science` | [![Live](https://img.shields.io/badge/Live-06b6d4?style=flat-square&logo=vercel&logoColor=white)](https://hueology.vercel.app) |
+| 🪄 **Vanish** | In-browser **AI object eraser** — paint over anything, AI inpaints it away | `React` · `ONNX` · `LaMa` | [![Live](https://img.shields.io/badge/Live-ec4899?style=flat-square&logo=vercel&logoColor=white)](https://vanish-bice.vercel.app) |
+| 🖊️ **Quill** | In-browser **PDF editor** — fill, sign, redact, reorder & merge pages | `React` · `pdf-lib` · `pdf.js` | [![Live](https://img.shields.io/badge/Live-06b6d4?style=flat-square&logo=vercel&logoColor=white)](https://quill-rho-mauve.vercel.app) |
+| 🎬 **Capsy** | In-browser **video auto-captioner** — Whisper transcribes & burns subtitles into MP4 | `React` · `Whisper` · `ffmpeg` | [![Live](https://img.shields.io/badge/Live-06b6d4?style=flat-square&logo=vercel&logoColor=white)](https://capsy-two.vercel.app) |
 
 <div align="center">
   <a href="https://my-portfolio-seven-delta-60.vercel.app">
-    <img src="https://img.shields.io/badge/%E2%86%92%20explore%20all%2040%2B%20products%20on%20my%20portfolio-1f2937?style=for-the-badge&logo=vercel&logoColor=8b5cf6" alt="portfolio" />
+    <img src="https://img.shields.io/badge/%E2%86%92%20explore%20all%2060%2B%20products%20on%20my%20portfolio-1f2937?style=for-the-badge&logo=vercel&logoColor=8b5cf6" alt="portfolio" />
   </a>
 </div>
 
