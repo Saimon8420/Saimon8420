@@ -114,7 +114,7 @@ const latiful = {
 </div>
 
 <div align="center">
-  <img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Saimon8420&theme=radical" alt="stats" />
+  <img height="175" src="https://github-readme-streak-stats-delta-five-80.vercel.app/?user=Saimon8420&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="streak" />
 </div>
 
 <div align="center">
