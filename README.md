@@ -45,6 +45,7 @@ const latiful = {
 | Project | What it is | Built with | |
 | :-- | :-- | :-- | :-: |
 | 🕌 **Miqaat** | Free public **Islamic prayer-times & fasting** API — schedule, Hijri calendar, Qibla | `TS` · `Express` · `adhan` | [![Live](https://img.shields.io/badge/Live-8b5cf6?style=flat-square&logo=vercel&logoColor=white)](https://miqaat-dev.vercel.app) |
+| 🗓️ **Awqat** | **Prayer & fasting timetable design studio** — turns the Miqaat API into shareable daily cards, monthly tables & year posters (EN/BN/AR · PNG/PDF) | `React` · `Vite` · `Tailwind` | [![Live](https://img.shields.io/badge/Live-8b5cf6?style=flat-square&logo=vercel&logoColor=white)](https://awqat-dev.vercel.app) |
 | 🌅 **Horizon** | Free public **Sun & Moon** API — sunrise/set, twilight, moon phases & forecasts | `TS` · `Express` · `SunCalc` | [![Live](https://img.shields.io/badge/Live-8b5cf6?style=flat-square&logo=vercel&logoColor=white)](https://horizon-prod-lk.vercel.app) |
 | 🔭 **Orrery** | Free public **Astronomy** API — positions, rise/set, eclipse prediction, seasons & conjunctions | `TS` · `Express` · `astronomy-engine` | [![Live](https://img.shields.io/badge/Live-8b5cf6?style=flat-square&logo=vercel&logoColor=white)](https://orrery-dev.vercel.app) |
 | 🩺 **Vitals** | Free public **clinical-calculators** API — eGFR, ASCVD risk, BMI/BSA, GCS, APGAR, dosing | `TS` · `Express` · `OpenAPI` | [![Live](https://img.shields.io/badge/Live-8b5cf6?style=flat-square&logo=vercel&logoColor=white)](https://vitals-dev.vercel.app) |
