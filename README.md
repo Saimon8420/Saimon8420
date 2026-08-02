@@ -3,30 +3,16 @@
 
 <img src="./header.svg" width="100%" alt="Md. Latiful Kabir — Observatory Log" />
 
-<a href="https://my-portfolio-seven-delta-60.vercel.app"><img src="https://img.shields.io/badge/Portfolio-13203b?style=flat&logo=vercel&logoColor=9fb2e0" alt="portfolio" /></a>
-<img src="https://komarev.com/ghpvc/?username=Saimon8420&label=Observations&color=ff9a52&style=flat-square" alt="views" />
-<img src="https://img.shields.io/badge/Based%20in-Dhaka,%20Bangladesh-93c5fd?style=flat-square" alt="location" />
-<img src="https://img.shields.io/badge/Status-Open%20to%20opportunities-6ee7b7?style=flat-square" alt="open to work" />
+<a href="https://my-portfolio-seven-delta-60.vercel.app"><img src="https://img.shields.io/badge/Portfolio-13203b?style=flat-square&logo=vercel&logoColor=9fb2e0" alt="portfolio" /></a>
+<img src="https://img.shields.io/badge/%F0%9F%93%8D%20Dhaka,%20Bangladesh-13203b?style=flat-square" alt="location" />
+<img src="https://img.shields.io/badge/%E2%97%89%20Open%20to%20opportunities-13203b?style=flat-square" alt="open to work" />
+<img src="https://img.shields.io/badge/Full--Stack%20Engineer-13203b?style=flat-square" alt="role" />
 
 </div>
 
 ## ☉ whoami &nbsp;<sub>`OBSERVER'S LOG`</sub>
 
-```ts
-const observer = {
-  name:      "Md. Latiful Kabir",          // @Saimon8420 · Dhaka, BD
-  role:      "Full-Stack Software Engineer @ FlowGenX AI",
-  stack:     ["TypeScript", "React/Next", "Node", "Python/FastAPI"],
-  shipped:   "60+ live products · 90,000+ people reached",
-  building:  "free, no-key public APIs + in-browser AI tools",
-  exploring: ["Rust", "Go"],
-  motto:     "map the sky, then ship it as an API",
-};
-```
-
-- 🤖 &nbsp;Building **agentic-AI integrations** at FlowGenX AI — connectors, workflows, enterprise automation.
-- 🚀 &nbsp;Led the front end of **Affpilot AI**, an AI content platform with **90k+ global users**.
-- 🧪 &nbsp;Slightly obsessed with **shipping** — I turn ideas into live products fast, end to end.
+<div align="center"><img src="./whoami.svg" width="100%" alt="whoami — a terminal session" /></div>
 
 ## ☉ Instruments &nbsp;<sub>`FREE · NO-KEY PUBLIC APIS`</sub>
 
@@ -173,13 +159,13 @@ Currently ascending on my chart — building agentic-AI integrations at **FlowGe
 
 <div align="center">
 
+<img src="./hailing.svg" width="100%" alt="channels open — available for roles, freelance & collaborations" />
+
+<br/>
+
 <a href="https://my-portfolio-seven-delta-60.vercel.app"><img src="https://img.shields.io/badge/Portfolio-13203b?style=for-the-badge&logo=vercel&logoColor=9fb2e0" alt="portfolio" /></a>
 <a href="mailto:latiful.dev@gmail.com"><img src="https://img.shields.io/badge/Email-13203b?style=for-the-badge&logo=gmail&logoColor=9fb2e0" alt="email" /></a>
 <a href="https://www.linkedin.com/in/latiful-kabir567/"><img src="https://img.shields.io/badge/LinkedIn-13203b?style=for-the-badge&logo=linkedin&logoColor=9fb2e0" alt="linkedin" /></a>
 <a href="https://github.com/Saimon8420"><img src="https://img.shields.io/badge/GitHub-13203b?style=for-the-badge&logo=github&logoColor=9fb2e0" alt="github" /></a>
-
-<br/><br/>
-
-<sub>"the sky, shipped as APIs" · thanks for stopping by the observatory ✦</sub>
 
 </div>
