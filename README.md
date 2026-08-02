@@ -1,146 +1,185 @@
-<!-- ╔═══════════════════════════  HEADER  ═══════════════════════════╗ -->
+<!-- ╔══════════════════════════  OBSERVATORY  ══════════════════════════╗ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:6D28D9,50:DB2777,100:06B6D4&amp;height=200&amp;section=header&amp;text=Md.%20Latiful%20Kabir&amp;fontSize=46&amp;fontColor=ffffff&amp;fontAlignY=36&amp;desc=Full-Stack%20Software%20Engineer%20%C2%B7%20I%20build%20and%20ship%20real%20products&amp;descSize=18&amp;descAlignY=56" width="100%" alt="header" />
+<img src="./header.svg" width="100%" alt="Md. Latiful Kabir — Observatory Log" />
 
-<a href="https://my-portfolio-seven-delta-60.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=680&lines=Full-Stack+Software+Engineer+%40+FlowGenX+AI;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+Node+%C2%B7+FastAPI;Shipped+products+used+by+90%2C000%2B+people;60%2B+live+apps+%26+free+public+APIs+%E2%80%94+and+counting;Currently+exploring+Rust+%26+Go" alt="roles" />
-</a>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=Saimon8420&label=Profile%20views&color=8b5cf6&style=flat-square" alt="views" />
-<img src="https://img.shields.io/badge/Based%20in-Bangladesh%20%F0%9F%87%A7%F0%9F%87%A9-06b6d4?style=flat-square" alt="location" />
-<img src="https://img.shields.io/badge/Open%20to-Opportunities-22c55e?style=flat-square" alt="open to work" />
+<a href="https://my-portfolio-seven-delta-60.vercel.app"><img src="https://img.shields.io/badge/Portfolio-13203b?style=flat&logo=vercel&logoColor=9fb2e0" alt="portfolio" /></a>
+<img src="https://komarev.com/ghpvc/?username=Saimon8420&label=Observations&color=ff9a52&style=flat-square" alt="views" />
+<img src="https://img.shields.io/badge/Based%20in-Dhaka,%20Bangladesh-93c5fd?style=flat-square" alt="location" />
+<img src="https://img.shields.io/badge/Status-Open%20to%20opportunities-6ee7b7?style=flat-square" alt="open to work" />
 
 </div>
 
-<!-- ╔═══════════════════════════  ABOUT  ════════════════════════════╗ -->
-
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;whoami
+## ☉ whoami &nbsp;<sub>`OBSERVER'S LOG`</sub>
 
 ```ts
-const latiful = {
-  role:      "Full-Stack Software Engineer @ FlowGenX AI (Gen-AI)",
+const observer = {
+  name:      "Md. Latiful Kabir",          // @Saimon8420 · Dhaka, BD
+  role:      "Full-Stack Software Engineer @ FlowGenX AI",
   stack:     ["TypeScript", "React/Next", "Node", "Python/FastAPI"],
-  shipped:   "60+ live web products · 90,000+ users reached",
+  shipped:   "60+ live products · 90,000+ people reached",
   building:  "free, no-key public APIs + in-browser AI tools",
   exploring: ["Rust", "Go"],
-  motto:     "clean, practical code that actually solves problems",
+  motto:     "map the sky, then ship it as an API",
 };
 ```
 
 - 🤖 &nbsp;Building **agentic-AI integrations** at FlowGenX AI — connectors, workflows, enterprise automation.
-- 🚀 &nbsp;Led the front end of **Affpilot AI** (an AI content platform with **90k+ global users**).
-- 🧪 &nbsp;Slightly obsessed with **shipping** — I turn ideas into live products fast, end-to-end.
-- 🌱 &nbsp;Currently leveling up in **Rust** & **Go**.
-- 📫 &nbsp;Reach me → **latiful.dev@gmail.com**
+- 🚀 &nbsp;Led the front end of **Affpilot AI**, an AI content platform with **90k+ global users**.
+- 🧪 &nbsp;Slightly obsessed with **shipping** — I turn ideas into live products fast, end to end.
 
-<!-- ╔═══════════════════════════  SHIPPED  ══════════════════════════╗ -->
+## ☉ Instruments &nbsp;<sub>`FREE · NO-KEY PUBLIC APIS`</sub>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;Things I've actually shipped
+> Pure-computation REST engines — no data feeds, no tracking, documented with OpenAPI, deployed on Vercel.
 
-> A few of the **60+ live** products I've built — including a suite of **free, public, no-key REST APIs** (pure-computation engines, no tracking).
-
-| Project | What it is | Built with | |
+| Instrument | Reads | Built with | |
 | :-- | :-- | :-- | :-: |
-| 🕌 **Miqaat** | Free public **Islamic prayer-times & fasting** API — schedule, Hijri calendar, Qibla | `TS` · `Express` · `adhan` | [![Live](https://img.shields.io/badge/Live-8b5cf6?style=flat-square&logo=vercel&logoColor=white)](https://miqaat-dev.vercel.app) |
-| 🗓️ **Awqat** | **Prayer & fasting timetable design studio** — turns the Miqaat API into shareable daily cards, monthly tables & year posters (EN/BN/AR · PNG/PDF) | `React` · `Vite` · `Tailwind` | [![Live](https://img.shields.io/badge/Live-8b5cf6?style=flat-square&logo=vercel&logoColor=white)](https://awqat-dev.vercel.app) |
-| 🌅 **Horizon** | Free public **Sun & Moon** API — sunrise/set, twilight, moon phases & forecasts | `TS` · `Express` · `SunCalc` | [![Live](https://img.shields.io/badge/Live-8b5cf6?style=flat-square&logo=vercel&logoColor=white)](https://horizon-prod-lk.vercel.app) |
-| 🔭 **Orrery** | Free public **Astronomy** API — positions, rise/set, eclipse prediction, seasons & conjunctions | `TS` · `Express` · `astronomy-engine` | [![Live](https://img.shields.io/badge/Live-8b5cf6?style=flat-square&logo=vercel&logoColor=white)](https://orrery-dev.vercel.app) |
-| 🩺 **Vitals** | Free public **clinical-calculators** API — eGFR, ASCVD risk, BMI/BSA, GCS, APGAR, dosing | `TS` · `Express` · `OpenAPI` | [![Live](https://img.shields.io/badge/Live-8b5cf6?style=flat-square&logo=vercel&logoColor=white)](https://vitals-dev.vercel.app) |
-| 🌱 **Verdant** | Free public **carbon-footprint** API — driving, flights, grid electricity, diet, freight & equivalencies | `TS` · `Express` · `OpenAPI` | [![Live](https://img.shields.io/badge/Live-8b5cf6?style=flat-square&logo=vercel&logoColor=white)](https://verdant-dev-gamma.vercel.app) |
-| 🔷 **Tessera** | Free public **geospatial-geometry** API — distance, area, buffers, overlay, hulls, simplify & interpolation on GeoJSON | `TS` · `Express` · `Turf.js` | [![Live](https://img.shields.io/badge/Live-8b5cf6?style=flat-square&logo=vercel&logoColor=white)](https://tessera-zeta-dev.vercel.app) |
-| 🧭 **Declino** | Free public **magnetic-declination & geomagnetic-field** API — WMM field values, secular drift & true↔magnetic bearing conversions | `TS` · `Express` · `geomagnetism` | [![Live](https://img.shields.io/badge/Live-8b5cf6?style=flat-square&logo=vercel&logoColor=white)](https://declino.vercel.app) |
-| 🌡️ **Swelter** | Free public **thermal-comfort & heat-safety** API — Heat Index, Wind Chill, Humidex, WBGT & UTCI with safety categories, metric or imperial | `TS` · `Express` · `UTCI` | [![Live](https://img.shields.io/badge/Live-8b5cf6?style=flat-square&logo=vercel&logoColor=white)](https://swelter-dev.vercel.app) |
-| ✍️ **Doetra** | AI **SEO article-generator SaaS** — built solo, end-to-end | `Next` · `Node` · `Mongo` · `Stripe` | [![Live](https://img.shields.io/badge/Live-ec4899?style=flat-square&logo=vercel&logoColor=white)](https://app.doetra.com) |
-| ✂️ **Poof** | In-browser **AI background remover** — runs fully client-side | `React` · `ONNX` · `WebGPU` | [![Live](https://img.shields.io/badge/Live-ec4899?style=flat-square&logo=vercel&logoColor=white)](https://poof-eight.vercel.app) |
-| 🪄 **Vanish** | In-browser **AI object eraser** — paint over anything, AI inpaints it away | `React` · `ONNX` · `LaMa` | [![Live](https://img.shields.io/badge/Live-ec4899?style=flat-square&logo=vercel&logoColor=white)](https://vanish-bice.vercel.app) |
-| 🖊️ **Quill** | In-browser **PDF editor** — fill, sign, redact, reorder & merge pages | `React` · `pdf-lib` · `pdf.js` | [![Live](https://img.shields.io/badge/Live-06b6d4?style=flat-square&logo=vercel&logoColor=white)](https://quill-rho-mauve.vercel.app) |
-| 🎬 **Capsy** | In-browser **video auto-captioner** — Whisper transcribes & burns subtitles into MP4 | `React` · `Whisper` · `ffmpeg` | [![Live](https://img.shields.io/badge/Live-06b6d4?style=flat-square&logo=vercel&logoColor=white)](https://capsy-two.vercel.app) |
+| **Horizon** | Sun & Moon — sunrise/set, twilight, phases, golden hour | `TS · Express · SunCalc` | [live ↗](https://horizon-prod-lk.vercel.app) |
+| **Orrery** | Astronomy — positions, eclipses, seasons, conjunctions | `TS · astronomy-engine` | [live ↗](https://orrery-dev.vercel.app) |
+| **Astraea** | Astrology — natal charts, houses, aspects, transits | `TS · astronomy-engine` | [live ↗](https://astraea-dev.vercel.app) |
+| **Rave** | Human Design — full BodyGraph from birth data | `TS · astronomy-engine` | [live ↗](https://rave-swart.vercel.app) |
+| **Vitals** | Clinical calculators — eGFR, ASCVD, BMI/BSA, GCS, dosing | `TS · Express · zod` | [live ↗](https://vitals-dev.vercel.app) |
+| **Verdant** | Carbon footprint — driving, flights, grid, diet, freight | `TS · Express · zod` | [live ↗](https://verdant-dev-gamma.vercel.app) |
+| **Tessera** | Geospatial geometry — distance, area, overlay, hulls | `TS · Turf.js` | [live ↗](https://tessera-zeta-dev.vercel.app) |
+| **Swelter** | Thermal comfort — Heat Index, WBGT, UTCI, wind chill | `TS · Express` | [live ↗](https://swelter-dev.vercel.app) |
+| **Declino** | Geomagnetic field — declination, drift, true↔magnetic | `TS · geomagnetism` | [live ↗](https://declino.vercel.app) |
+
+## ★ Star Catalogue &nbsp;<sub>`THE FLEET · 60+`</sub>
+
+> A few of the 60+ live products I've shipped — clients, studios, and in-browser AI tools.
+
+| Body | What it is | Built with | |
+| :-- | :-- | :-- | :-: |
+| ✦ **Parallax** | Your sky, right now — live Sun/Moon radar & orrery, EN/বাংলা | `Vite · React · TS` | [live ↗](https://parallax-dev567.vercel.app) |
+| ✦ **Doetra** | AI SEO article-generator SaaS — built solo, end to end | `Next · Node · Stripe` | [live ↗](https://app.doetra.com) |
+| · **Awqat** | Prayer & fasting timetable studio — cards/posters, EN/BN/AR | `React · Vite` | [live ↗](https://awqat-dev.vercel.app) |
+| · **Vanish** | In-browser AI object eraser — paint over, AI inpaints it away | `React · ONNX · LaMa` | [live ↗](https://vanish-bice.vercel.app) |
+| · **Quill** | In-browser PDF editor — fill, sign, redact, merge | `React · pdf-lib` | [live ↗](https://quill-rho-mauve.vercel.app) |
+| · **Capsy** | Video auto-captioner — Whisper transcribes & burns subtitles | `React · Whisper` | [live ↗](https://capsy-two.vercel.app) |
 
 <div align="center">
-  <a href="https://my-portfolio-seven-delta-60.vercel.app">
-    <img src="https://img.shields.io/badge/%E2%86%92%20explore%20all%2060%2B%20products%20on%20my%20portfolio-1f2937?style=for-the-badge&logo=vercel&logoColor=8b5cf6" alt="portfolio" />
-  </a>
+<a href="https://my-portfolio-seven-delta-60.vercel.app"><img src="https://img.shields.io/badge/%E2%9C%A6%20explore%20all%2060%2B%20on%20the%20portfolio-13203b?style=for-the-badge&logo=vercel&logoColor=ff9a52" alt="portfolio" /></a>
 </div>
 
-<!-- ╔═══════════════════════════  STACK  ════════════════════════════╗ -->
+## ☾ Ephemeris &nbsp;<sub>`RISING NOW`</sub>
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> &nbsp;Tech I build with
+Currently ascending on my chart — building agentic-AI integrations at **FlowGenX AI**, and leveling up systems languages.
 
-**Languages**
+<p>
+<img src="https://img.shields.io/badge/Rust-13203b?style=for-the-badge&logo=rust&logoColor=9fb2e0" alt="Rust" />
+<img src="https://img.shields.io/badge/Go-13203b?style=for-the-badge&logo=go&logoColor=9fb2e0" alt="Go" />
+<img src="https://img.shields.io/badge/Agentic%20AI-13203b?style=for-the-badge&logo=openai&logoColor=9fb2e0" alt="Agentic AI" />
+<img src="https://img.shields.io/badge/FlowGenX%20AI-13203b?style=for-the-badge&logo=rocket&logoColor=9fb2e0" alt="FlowGenX AI" />
+</p>
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+## ☉ Spectrum &nbsp;<sub>`TECH I BUILD WITH`</sub>
 
-**Frontend**
+**◦ Languages**
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/TypeScript-13203b?style=flat&logo=typescript&logoColor=9fb2e0" />
+<img src="https://img.shields.io/badge/JavaScript-13203b?style=flat&logo=javascript&logoColor=9fb2e0" />
+<img src="https://img.shields.io/badge/Python-13203b?style=flat&logo=python&logoColor=9fb2e0" />
+<img src="https://img.shields.io/badge/Java-13203b?style=flat&logo=openjdk&logoColor=9fb2e0" />
+<img src="https://img.shields.io/badge/C-13203b?style=flat&logo=c&logoColor=9fb2e0" />
+<img src="https://img.shields.io/badge/Rust-13203b?style=flat&logo=rust&logoColor=9fb2e0" />
+<img src="https://img.shields.io/badge/Go-13203b?style=flat&logo=go&logoColor=9fb2e0" />
+</p>
 
-**Backend**
+**◦ Frontend**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/React-13203b?style=flat&logo=react&logoColor=9fb2e0" />
+<img src="https://img.shields.io/badge/Next.js-13203b?style=flat&logo=nextdotjs&logoColor=9fb2e0" />
+<img src="https://img.shields.io/badge/Astro-13203b?style=flat&logo=astro&logoColor=9fb2e0" />
+<img src="https://img.shields.io/badge/Angular-13203b?style=flat&logo=angular&logoColor=9fb2e0" />
+<img src="https://img.shields.io/badge/Vue.js-13203b?style=flat&logo=vuedotjs&logoColor=9fb2e0" />
+<img src="https://img.shields.io/badge/HTML5-13203b?style=flat&logo=html5&logoColor=9fb2e0" />
+<img src="https://img.shields.io/badge/CSS3-13203b?style=flat&logo=css3&logoColor=9fb2e0" />
+<img src="https://img.shields.io/badge/Tailwind-13203b?style=flat&logo=tailwindcss&logoColor=9fb2e0" />
+<img src="https://img.shields.io/badge/Redux-13203b?style=flat&logo=redux&logoColor=9fb2e0" />
+<img src="https://img.shields.io/badge/React%20Query-13203b?style=flat&logo=reactquery&logoColor=9fb2e0" />
+<img src="https://img.shields.io/badge/Zustand-13203b?style=flat" />
+</p>
 
-**Data & Cloud**
+**◦ UI kits**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/Material%20UI-13203b?style=flat&logo=mui&logoColor=9fb2e0" />
+<img src="https://img.shields.io/badge/shadcn%2Fui-13203b?style=flat&logo=shadcnui&logoColor=9fb2e0" />
+<img src="https://img.shields.io/badge/Chakra%20UI-13203b?style=flat&logo=chakraui&logoColor=9fb2e0" />
+<img src="https://img.shields.io/badge/DaisyUI-13203b?style=flat&logo=daisyui&logoColor=9fb2e0" />
+</p>
 
-<!-- ╔═══════════════════════════  STATS  ════════════════════════════╗ -->
+**◦ Backend & Auth**
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="26"> &nbsp;GitHub in numbers
+<p>
+<img src="https://img.shields.io/badge/Node.js-13203b?style=flat&logo=nodedotjs&logoColor=9fb2e0" />
+<img src="https://img.shields.io/badge/Express-13203b?style=flat&logo=express&logoColor=9fb2e0" />
+<img src="https://img.shields.io/badge/Bun-13203b?style=flat&logo=bun&logoColor=9fb2e0" />
+<img src="https://img.shields.io/badge/FastAPI-13203b?style=flat&logo=fastapi&logoColor=9fb2e0" />
+<img src="https://img.shields.io/badge/JWT-13203b?style=flat&logo=jsonwebtokens&logoColor=9fb2e0" />
+<img src="https://img.shields.io/badge/OAuth%202.0-13203b?style=flat&logo=auth0&logoColor=9fb2e0" />
+<img src="https://img.shields.io/badge/Clerk-13203b?style=flat&logo=clerk&logoColor=9fb2e0" />
+<img src="https://img.shields.io/badge/Passport-13203b?style=flat&logo=passport&logoColor=9fb2e0" />
+</p>
+
+**◦ Databases & ORMs**
+
+<p>
+<img src="https://img.shields.io/badge/PostgreSQL-13203b?style=flat&logo=postgresql&logoColor=9fb2e0" />
+<img src="https://img.shields.io/badge/MySQL-13203b?style=flat&logo=mysql&logoColor=9fb2e0" />
+<img src="https://img.shields.io/badge/MongoDB-13203b?style=flat&logo=mongodb&logoColor=9fb2e0" />
+<img src="https://img.shields.io/badge/Supabase-13203b?style=flat&logo=supabase&logoColor=9fb2e0" />
+<img src="https://img.shields.io/badge/Firebase-13203b?style=flat&logo=firebase&logoColor=9fb2e0" />
+<img src="https://img.shields.io/badge/Redis-13203b?style=flat&logo=redis&logoColor=9fb2e0" />
+<img src="https://img.shields.io/badge/Prisma-13203b?style=flat&logo=prisma&logoColor=9fb2e0" />
+<img src="https://img.shields.io/badge/Drizzle-13203b?style=flat&logo=drizzle&logoColor=9fb2e0" />
+<img src="https://img.shields.io/badge/Mongoose-13203b?style=flat&logo=mongoose&logoColor=9fb2e0" />
+</p>
+
+**◦ DevOps, Cloud & Tooling**
+
+<p>
+<img src="https://img.shields.io/badge/Docker-13203b?style=flat&logo=docker&logoColor=9fb2e0" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-13203b?style=flat&logo=githubactions&logoColor=9fb2e0" />
+<img src="https://img.shields.io/badge/Vercel-13203b?style=flat&logo=vercel&logoColor=9fb2e0" />
+<img src="https://img.shields.io/badge/Railway-13203b?style=flat&logo=railway&logoColor=9fb2e0" />
+<img src="https://img.shields.io/badge/Render-13203b?style=flat&logo=render&logoColor=9fb2e0" />
+<img src="https://img.shields.io/badge/Jest-13203b?style=flat&logo=jest&logoColor=9fb2e0" />
+<img src="https://img.shields.io/badge/Testing%20Library-13203b?style=flat&logo=testinglibrary&logoColor=9fb2e0" />
+<img src="https://img.shields.io/badge/Postman-13203b?style=flat&logo=postman&logoColor=9fb2e0" />
+<img src="https://img.shields.io/badge/Git-13203b?style=flat&logo=git&logoColor=9fb2e0" />
+<img src="https://img.shields.io/badge/Figma-13203b?style=flat&logo=figma&logoColor=9fb2e0" />
+</p>
+
+## 🔭 Observation Log &nbsp;<sub>`SPECTRAL CLASS · GITHUB`</sub>
 
 <div align="center">
-  <img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saimon8420&theme=radical" alt="overview" />
+
+<img src="./languages.svg" width="100%" alt="primary languages" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=Saimon8420&hide_border=true&background=070b16&border=1e2a4a&stroke=1e2a4a&ring=ff9a52&fire=ff7a45&currStreakNum=eef1f7&currStreakLabel=ff9a52&sideNums=eef1f7&sideLabels=9fb2e0&dates=6b7488" alt="streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Saimon8420&hide_border=true&bg_color=070b16&color=eef1f7&line=ff9a52&point=93c5fd&area=true&area_color=ff9a52&title_color=ff9a52&custom_title=Contribution%20Log" width="100%" alt="contribution graph" />
+
 </div>
 
-<div align="center">
-  <img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Saimon8420&theme=radical" alt="repos per language" />
-  <img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Saimon8420&theme=radical" alt="most committed language" />
-</div>
+---
 
-<div align="center">
-  <img height="175" src="https://github-readme-streak-stats-delta-five-80.vercel.app/?user=Saimon8420&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saimon8420&bg_color=0d1117&color=a78bfa&line=ec4899&point=06b6d4&area=true&hide_border=true" alt="activity graph" width="95%" />
-</div>
-
-<!-- ╔═══════════════════════════  CONNECT  ══════════════════════════╗ -->
-
-## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="28"> &nbsp;Let's connect
+## 📡 Hailing frequencies
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/latiful-kabir567/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
-<a href="https://my-portfolio-seven-delta-60.vercel.app"><img src="https://img.shields.io/badge/Portfolio-8b5cf6?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" /></a>
-<a href="mailto:latiful.dev@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
-<a href="https://fb.com/l.kabir567"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" /></a>
-<a href="https://instagram.com/l.kabir567/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" /></a>
+<a href="https://my-portfolio-seven-delta-60.vercel.app"><img src="https://img.shields.io/badge/Portfolio-13203b?style=for-the-badge&logo=vercel&logoColor=9fb2e0" alt="portfolio" /></a>
+<a href="mailto:latiful.dev@gmail.com"><img src="https://img.shields.io/badge/Email-13203b?style=for-the-badge&logo=gmail&logoColor=9fb2e0" alt="email" /></a>
+<a href="https://www.linkedin.com/in/latiful-kabir567/"><img src="https://img.shields.io/badge/LinkedIn-13203b?style=for-the-badge&logo=linkedin&logoColor=9fb2e0" alt="linkedin" /></a>
+<a href="https://github.com/Saimon8420"><img src="https://img.shields.io/badge/GitHub-13203b?style=for-the-badge&logo=github&logoColor=9fb2e0" alt="github" /></a>
+
+<br/><br/>
+
+<sub>"the sky, shipped as APIs" · thanks for stopping by the observatory ✦</sub>
 
 </div>
-
-<br/>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=A78BFA&center=true&vCenter=true&width=520&lines=Thanks+for+stopping+by+%E2%9C%A8;Let's+build+something+people+actually+use." alt="outro" />
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:06B6D4,50:DB2777,100:6D28D9&amp;height=120&amp;section=footer" width="100%" alt="footer" />
