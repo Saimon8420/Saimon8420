@@ -1,21 +1,41 @@
-<svg viewBox="0 0 850 200" width="850" height="200" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Primary languages" font-family="ui-monospace,'JetBrains Mono',Consolas,monospace">
-  <defs><pattern id="og" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#13203b" stroke-width="1"/></pattern></defs>
-  <rect x="4" y="4" width="842" height="192" rx="16" fill="#070b16" stroke="#1e2a4a"/>
-  <rect x="4" y="4" width="842" height="192" rx="16" fill="url(#og)" opacity="0.5"/>
-  <text x="40" y="42" fill="#9fb2e0" font-size="11.5" letter-spacing="2">&#9702; PRIMARY LANGUAGES</text>
-  <text x="810" y="42" fill="#5b6b8c" font-size="10.5" text-anchor="end">&#8599; live activity below</text>
-  <rect x="40"  y="62" width="350" height="24" rx="4" fill="#ffb057"/>
-  <rect x="392" y="62" width="168" height="24" rx="4" fill="#93c5fd"/>
-  <rect x="562" y="62" width="107" height="24" rx="4" fill="#c4b5fd"/>
-  <rect x="671" y="62" width="76"  height="24" rx="4" fill="#6ee7b7"/>
-  <rect x="749" y="62" width="61"  height="24" rx="4" fill="#f9a8d4"/>
-  <g font-size="11" text-anchor="middle" fill="#c7d2e8">
-    <text x="215" y="106">TypeScript 46%</text><text x="476" y="106">JS 22%</text><text x="615" y="106">Python 14%</text><text x="709" y="106">Web 10%</text><text x="779" y="106">Sys 8%</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="190" viewBox="0 0 880 190" role="img" aria-label="Language mix">
+  <defs>
+    <pattern id="bp" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#202c26" stroke-width="0.6" opacity="0.55"/></pattern>
+  </defs>
+  <style>
+    .m{font-family:'JetBrains Mono',ui-monospace,SFMono-Regular,Consolas,Menlo,monospace}
+    .lbl{font-size:10.5px;letter-spacing:2.2px;fill:#7a8f84}
+    @keyframes blink{0%,100%{opacity:1}50%{opacity:.25}}
+    .dot{animation:blink 2.4s ease-in-out infinite}
+  </style>
+  <rect width="880" height="190" rx="10" fill="#070a09"/>
+  <rect width="880" height="190" rx="10" fill="url(#bp)"/>
+  <rect x="0.5" y="0.5" width="879" height="189" rx="10" fill="none" stroke="#202c26"/>
+  <path d="M1 14V1H14M866 1H879V14M879 176V189H866M14 189H1V176" fill="none" stroke="#2dd49a" stroke-opacity="0.55" stroke-width="1.5"/>
+
+  <circle class="dot" cx="30" cy="34" r="4" fill="#2dd49a"/>
+  <text x="44" y="38" class="m lbl">LANGUAGE MIX</text>
+  <text x="852" y="38" text-anchor="end" class="m lbl" style="fill:#2dd49a">SHARE OF CODE SHIPPED</text>
+  <line x1="28" y1="54" x2="852" y2="54" stroke="#202c26"/>
+
+  <!-- 824px track, 4px gaps -->
+  <rect x="28"  y="74" width="376" height="20" rx="3" fill="#2dd49a"/>
+  <rect x="408" y="74" width="178" height="20" rx="3" fill="#f5b84a"/>
+  <rect x="590" y="74" width="112" height="20" rx="3" fill="#1fae80"/>
+  <rect x="706" y="74" width="79"  height="20" rx="3" fill="#138060"/>
+  <rect x="789" y="74" width="63"  height="20" rx="3" fill="#3d4d45"/>
+  <g class="m" font-size="11.5">
+    <text x="28"  y="116" fill="#e1f0e8">TypeScript <tspan fill="#2dd49a">46%</tspan></text>
+    <text x="408" y="116" fill="#e1f0e8">JavaScript <tspan fill="#f5b84a">22%</tspan></text>
+    <text x="590" y="116" fill="#e1f0e8">Python <tspan fill="#1fae80">14%</tspan></text>
+    <text x="706" y="116" fill="#e1f0e8">Web <tspan fill="#1fae80">10%</tspan></text>
+    <text x="789" y="116" fill="#e1f0e8">Sys <tspan fill="#7a8f84">8%</tspan></text>
   </g>
-  <line x1="40" y1="130" x2="810" y2="130" stroke="#1e2a4a"/>
-  <g font-size="12" fill="#9aa3b6">
-    <text x="40" y="162"><tspan fill="#ffb057">&#9737;</tspan>  building in public since 2020</text>
-    <text x="330" y="162"><tspan fill="#93c5fd">&#9737;</tspan>  commits year-round</text>
-    <text x="560" y="162"><tspan fill="#c4b5fd">&#9737;</tspan>  60+ shipped &#183; 9 public APIs</text>
+
+  <line x1="28" y1="136" x2="852" y2="136" stroke="#202c26"/>
+  <g class="m" font-size="12" fill="#7a8f84">
+    <text x="28" y="164"><tspan fill="#2dd49a">▸</tspan> building in public since 2020</text>
+    <text x="330" y="164"><tspan fill="#2dd49a">▸</tspan> commits year-round</text>
+    <text x="590" y="164"><tspan fill="#2dd49a">▸</tspan> 60+ shipped · 10 public APIs</text>
   </g>
 </svg>

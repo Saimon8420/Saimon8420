@@ -1,59 +1,83 @@
-<svg viewBox="0 0 850 320" width="850" height="320" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Md. Latiful Kabir — Observatory Log">
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="320" viewBox="0 0 880 320" role="img" aria-label="Md. Latiful Kabir — operator console">
   <defs>
-    <linearGradient id="nsky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#05070f"/><stop offset="0.45" stop-color="#0a1433"/><stop offset="0.8" stop-color="#16264f"/><stop offset="1" stop-color="#26386e"/></linearGradient>
-    <radialGradient id="hglow" cx="50%" cy="118%" r="80%"><stop offset="0" stop-color="#ff9a52" stop-opacity="0.22"/><stop offset="0.5" stop-color="#7a5aa0" stop-opacity="0.10"/><stop offset="1" stop-color="#000000" stop-opacity="0"/></radialGradient>
-    <radialGradient id="sung"><stop offset="0" stop-color="#fff2d8"/><stop offset="0.5" stop-color="#ffb057"/><stop offset="1" stop-color="#ff7a45"/></radialGradient>
-    <radialGradient id="sunhalo"><stop offset="0" stop-color="#ffb057" stop-opacity="0.55"/><stop offset="1" stop-color="#ffb057" stop-opacity="0"/></radialGradient>
+    <pattern id="bp" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#202c26" stroke-width="0.6" opacity="0.6"/></pattern>
+    <radialGradient id="glow" cx="18%" cy="30%" r="60%"><stop offset="0" stop-color="#2dd49a" stop-opacity="0.13"/><stop offset="1" stop-color="#2dd49a" stop-opacity="0"/></radialGradient>
+    <linearGradient id="scan" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2dd49a" stop-opacity="0"/><stop offset="0.5" stop-color="#2dd49a" stop-opacity="0.08"/><stop offset="1" stop-color="#2dd49a" stop-opacity="0"/></linearGradient>
+    <clipPath id="card"><rect x="28" y="64" width="540" height="190" rx="6"/></clipPath>
+    <clipPath id="log"><rect x="130" y="270" width="722" height="30"/></clipPath>
   </defs>
-  <rect x="4" y="4" width="842" height="312" rx="18" fill="url(#nsky)" stroke="#1e2a4a"/>
-  <rect x="4" y="4" width="842" height="312" rx="18" fill="url(#hglow)"/>
-  <g stroke="#ffffff" stroke-opacity="0.045">
-    <line x1="150" y1="4" x2="150" y2="316"/><line x1="300" y1="4" x2="300" y2="316"/><line x1="450" y1="4" x2="450" y2="316"/><line x1="600" y1="4" x2="600" y2="316"/><line x1="740" y1="4" x2="740" y2="316"/>
-    <path d="M4 90 Q425 70 846 90" fill="none"/><path d="M4 180 Q425 160 846 180" fill="none"/>
+  <style>
+    .m{font-family:'JetBrains Mono',ui-monospace,SFMono-Regular,Consolas,Menlo,monospace}
+    .d{font-family:'Space Grotesk','Segoe UI',Inter,Helvetica,Arial,sans-serif}
+    .lbl{font-size:10.5px;letter-spacing:2.2px;fill:#7a8f84}
+    @keyframes blink{0%,100%{opacity:1}50%{opacity:.25}}
+    .dot{animation:blink 2.4s ease-in-out infinite}
+    @keyframes blip{0%,100%{opacity:.35}50%{opacity:1}}
+    .b{animation:blip 1.8s ease-in-out infinite}
+  </style>
+
+  <rect width="880" height="320" rx="10" fill="#070a09"/>
+  <rect width="880" height="320" rx="10" fill="url(#bp)"/>
+  <rect width="880" height="320" rx="10" fill="url(#glow)"/>
+  <rect x="0.5" y="0.5" width="879" height="319" rx="10" fill="none" stroke="#202c26"/>
+  <path d="M1 16V1H16M864 1H879V16M879 304V319H864M16 319H1V304" fill="none" stroke="#2dd49a" stroke-opacity="0.6" stroke-width="1.5"/>
+
+  <!-- top bar -->
+  <g class="m">
+    <rect x="28" y="24" width="14" height="12" rx="2" fill="#2dd49a"/>
+    <path d="M31.5 27.5l3 2.5-3 2.5M36 33h3" stroke="#070a09" stroke-width="1.4" fill="none" stroke-linecap="round"/>
+    <text x="50" y="35" font-size="13" font-weight="600" fill="#e1f0e8">latiful.kabir</text>
+    <circle class="dot" cx="158" cy="31" r="3.5" fill="#2dd49a"/>
+    <text x="852" y="35" text-anchor="end" class="lbl">OPERATOR CONSOLE · @SAIMON8420</text>
   </g>
-  <g fill="#dbe4f3">
-    <circle cx="70" cy="46" r="1.4"><animate attributeName="opacity" values="0.3;1;0.3" dur="3.1s" repeatCount="indefinite"/></circle>
-    <circle cx="180" cy="70" r="1"><animate attributeName="opacity" values="0.2;0.9;0.2" dur="4.3s" repeatCount="indefinite"/></circle>
-    <circle cx="120" cy="120" r="0.9"/>
-    <circle cx="360" cy="40" r="1.3"><animate attributeName="opacity" values="0.4;1;0.4" dur="2.7s" repeatCount="indefinite"/></circle>
-    <circle cx="470" cy="64" r="1"/>
-    <circle cx="250" cy="150" r="0.9"><animate attributeName="opacity" values="0.2;0.8;0.2" dur="3.7s" repeatCount="indefinite"/></circle>
-    <circle cx="430" cy="150" r="1.1"/>
-    <circle cx="520" cy="120" r="0.9"><animate attributeName="opacity" values="0.3;1;0.3" dur="3.3s" repeatCount="indefinite"/></circle>
-    <circle cx="60" cy="205" r="1"/>
-    <circle cx="150" cy="235" r="1.2"><animate attributeName="opacity" values="0.25;0.9;0.25" dur="2.9s" repeatCount="indefinite"/></circle>
-    <circle cx="300" cy="255" r="0.9"/>
-    <circle cx="410" cy="248" r="1"><animate attributeName="opacity" values="0.2;0.85;0.2" dur="4.1s" repeatCount="indefinite"/></circle>
-    <circle cx="815" cy="60" r="1"/>
+
+  <!-- ID card -->
+  <rect x="28.5" y="64.5" width="539" height="189" rx="6" fill="#0e1310" stroke="#202c26"/>
+  <path d="M29 76V65H40M556 65H567V76M567 242V253H556M40 253H29V242" fill="none" stroke="#2dd49a" stroke-opacity="0.5" stroke-width="1.3"/>
+  <g clip-path="url(#card)">
+    <rect x="28" y="-20" width="540" height="80" fill="url(#scan)">
+      <animate attributeName="y" values="-20;260;-20" dur="7s" repeatCount="indefinite"/>
+    </rect>
   </g>
-  <g transform="translate(340,118)" stroke="#eaf1ff" stroke-width="0.9" opacity="0.9"><line x1="-7" y1="0" x2="7" y2="0"/><line x1="0" y1="-7" x2="0" y2="7"/><circle r="1.6" fill="#eaf1ff" stroke="none"/></g>
-  <g opacity="0">
-    <line x1="120" y1="30" x2="60" y2="70" stroke="#cfe0ff" stroke-width="1.6" stroke-linecap="round"/>
-    <animate attributeName="opacity" values="0;0.9;0" dur="1.2s" begin="2s;9s;17s" repeatCount="1"/>
-    <animateTransform attributeName="transform" type="translate" values="60,-30; 0,0; -40,40" dur="1.2s" begin="2s;9s;17s" repeatCount="1"/>
+  <g class="m">
+    <circle class="dot" cx="54" cy="92" r="3.5" fill="#2dd49a"/>
+    <text x="66" y="96" class="lbl">OPERATOR · ONLINE</text>
   </g>
-  <g transform="translate(672,166)">
-    <circle r="30" fill="url(#sunhalo)"/>
-    <circle r="106" fill="none" stroke="#8aa0c8" stroke-opacity="0.14" stroke-dasharray="1 11"/>
-    <circle r="44" fill="none" stroke="#93c5fd" stroke-opacity="0.20" stroke-dasharray="1 6"/>
-    <circle r="68" fill="none" stroke="#93c5fd" stroke-opacity="0.16" stroke-dasharray="1 6"/>
-    <circle r="92" fill="none" stroke="#93c5fd" stroke-opacity="0.13" stroke-dasharray="1 6"/>
-    <circle r="11" fill="url(#sung)"/>
-    <g><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="13s" repeatCount="indefinite"/><circle cx="44" cy="0" r="3" fill="#93c5fd"/></g>
-    <g><animateTransform attributeName="transform" type="rotate" from="80" to="440" dur="21s" repeatCount="indefinite"/><circle cx="68" cy="0" r="3.8" fill="#ffb057"/></g>
-    <g><animateTransform attributeName="transform" type="rotate" from="160" to="520" dur="31s" repeatCount="indefinite"/><circle cx="92" cy="0" r="3.3" fill="#c4b5fd"/></g>
+  <text x="52" y="152" class="d" font-size="44" font-weight="700" letter-spacing="-1.3" fill="#e1f0e8">Md. Latiful Kabir</text>
+  <text x="54" y="182" class="m lbl" fill="#2dd49a" style="fill:#2dd49a">SOFTWARE ENGINEER · GEN AI @ FLOWGENX</text>
+  <text x="54" y="222" class="d" font-size="15.5" fill="#a9bdb2">Full-stack engineer — I build the product,
+    <tspan fill="#e1f0e8" font-weight="600">and the API underneath it.</tspan></text>
+
+  <!-- live readout -->
+  <rect x="588.5" y="64.5" width="263" height="189" rx="6" fill="#0e1310" stroke="#202c26"/>
+  <g class="m" font-size="12.5">
+    <text x="608" y="96" fill="#7a8f84">status</text><text x="832" y="96" text-anchor="end" fill="#2dd49a">● online</text>
+    <text x="608" y="122" fill="#7a8f84">based</text><text x="832" y="122" text-anchor="end" fill="#e1f0e8">Dhaka, BD</text>
+    <text x="608" y="148" fill="#7a8f84">hiring</text><text x="832" y="148" text-anchor="end" fill="#f5b84a">● open</text>
+    <text x="608" y="174" fill="#7a8f84">apis</text><text x="832" y="174" text-anchor="end" fill="#e1f0e8"><tspan fill="#2dd49a">10</tspan> live</text>
+    <text x="608" y="200" fill="#7a8f84">shipped</text><text x="832" y="200" text-anchor="end" fill="#e1f0e8"><tspan fill="#2dd49a">60+</tspan> apps</text>
   </g>
-  <text x="54" y="70" fill="#ffb057" font-size="15">&#9733;</text>
-  <text x="74" y="70" fill="#6b7488" font-size="11" letter-spacing="2" font-family="ui-monospace,Consolas,monospace">OBSERVER &#183; @Saimon8420</text>
-  <text x="52" y="114" fill="#eef1f7" font-size="40" font-weight="700" font-family="Georgia,'Times New Roman',serif" letter-spacing="1">Md. Latiful Kabir</text>
-  <text x="55" y="142" fill="#9aa3b6" font-size="12" letter-spacing="5" font-family="ui-monospace,Consolas,monospace">OBSERVATORY LOG &#183; DHAKA, BANGLADESH</text>
-  <text x="54" y="182" fill="#cdd7ee" font-size="16.5" font-style="italic" font-family="Georgia,serif">Full-Stack Engineer — I map the sky, and ship it as APIs.</text>
-  <g font-family="ui-monospace,Consolas,monospace" font-size="12">
-    <text x="54" y="220" fill="#6b7488" letter-spacing="1">INSTRUMENTS</text>
-    <circle cx="164" cy="216" r="4" fill="#ffb057"/><text x="174" y="220" fill="#ffcfa0">Horizon</text>
-    <circle cx="248" cy="216" r="4" fill="#93c5fd"/><text x="258" y="220" fill="#bcd6f7">Orrery</text>
-    <circle cx="322" cy="216" r="4" fill="#c4b5fd"/><text x="332" y="220" fill="#d8ccfb">Parallax</text>
+  <g fill="#2dd49a">
+    <rect class="b" x="608" y="222" width="20" height="5" rx="1"/>
+    <rect class="b" x="630.4" y="222" width="20" height="5" rx="1" style="animation-delay:.12s"/>
+    <rect class="b" x="652.8" y="222" width="20" height="5" rx="1" style="animation-delay:.24s"/>
+    <rect class="b" x="675.2" y="222" width="20" height="5" rx="1" style="animation-delay:.36s"/>
+    <rect class="b" x="697.6" y="222" width="20" height="5" rx="1" style="animation-delay:.48s"/>
+    <rect class="b" x="720" y="222" width="20" height="5" rx="1" style="animation-delay:.6s"/>
+    <rect class="b" x="742.4" y="222" width="20" height="5" rx="1" style="animation-delay:.72s"/>
+    <rect class="b" x="764.8" y="222" width="20" height="5" rx="1" style="animation-delay:.84s"/>
+    <rect class="b" x="787.2" y="222" width="20" height="5" rx="1" style="animation-delay:.96s"/>
+    <rect class="b" x="809.6" y="222" width="22" height="5" rx="1" style="animation-delay:1.08s"/>
   </g>
-  <text x="54" y="252" fill="#5b6b8c" font-size="11" font-family="ui-monospace,Consolas,monospace">R.A. 60+ apps &#160;&#183;&#160; MAG 90k+ users &#160;&#183;&#160; SPECTRUM TS &#183; PY &#183; RS &#183; GO</text>
-  <rect x="30" y="289" width="440" height="1.4" fill="#ffb057" opacity="0.26"/>
+
+  <!-- deploy log ticker -->
+  <line x1="28" y1="270" x2="852" y2="270" stroke="#202c26"/>
+  <text x="28" y="291" class="m lbl" style="fill:#2dd49a">DEPLOY LOG ▸</text>
+  <g clip-path="url(#log)">
+    <g class="m" font-size="11.5" fill="#7a8f84">
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-720 0" dur="26s" repeatCount="indefinite"/>
+      <text x="134" y="291" xml:space="preserve">miqaat <tspan fill="#2dd49a">✓ 200</tspan>   horizon <tspan fill="#2dd49a">✓ 200</tspan>   orrery <tspan fill="#2dd49a">✓ 200</tspan>   swelter <tspan fill="#2dd49a">✓ 200</tspan>   declino <tspan fill="#2dd49a">✓ 200</tspan>   parallax <tspan fill="#2dd49a">✓</tspan>   canvo <tspan fill="#2dd49a">✓</tspan>   awqat <tspan fill="#2dd49a">✓</tspan>  </text>
+      <text x="854" y="291" xml:space="preserve">miqaat <tspan fill="#2dd49a">✓ 200</tspan>   horizon <tspan fill="#2dd49a">✓ 200</tspan>   orrery <tspan fill="#2dd49a">✓ 200</tspan>   swelter <tspan fill="#2dd49a">✓ 200</tspan>   declino <tspan fill="#2dd49a">✓ 200</tspan>   parallax <tspan fill="#2dd49a">✓</tspan>   canvo <tspan fill="#2dd49a">✓</tspan>   awqat <tspan fill="#2dd49a">✓</tspan>  </text>
+    </g>
+  </g>
 </svg>

@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="270" viewBox="0 0 880 270" role="img" aria-label="Operator profile — about me and spec sheet">
+  <defs>
+    <pattern id="bp" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#202c26" stroke-width="0.6" opacity="0.5"/></pattern>
+  </defs>
+  <style>
+    .m{font-family:'JetBrains Mono',ui-monospace,SFMono-Regular,Consolas,Menlo,monospace}
+    .d{font-family:'Space Grotesk','Segoe UI',Inter,Helvetica,Arial,sans-serif}
+    .lbl{font-size:10.5px;letter-spacing:2.2px;fill:#7a8f84}
+    .p{font-size:15px;fill:#a9bdb2}
+    .hi{fill:#e1f0e8;font-weight:600}
+    .k{font-size:10px;letter-spacing:2px;fill:#7a8f84}
+    .v{font-size:15px;font-weight:600;fill:#e1f0e8}
+    @keyframes blink{0%,100%{opacity:1}50%{opacity:.25}}
+    .dot{animation:blink 2.4s ease-in-out infinite}
+  </style>
+
+  <!-- README panel -->
+  <rect x="0.5" y="0.5" width="520" height="269" rx="8" fill="#0e1310" stroke="#202c26"/>
+  <rect x="0.5" y="0.5" width="520" height="40" rx="8" fill="#121814"/>
+  <rect x="0.5" y="30" width="520" height="11" fill="#121814"/>
+  <line x1="1" y1="40.5" x2="520" y2="40.5" stroke="#202c26"/>
+  <text x="20" y="25" class="m lbl">// README</text>
+  <text x="500" y="25" text-anchor="end" class="m lbl">OPERATOR.MD</text>
+  <g class="d">
+    <text x="22" y="80" class="p">I'm a <tspan class="hi">full-stack engineer</tspan> across the JavaScript</text>
+    <text x="22" y="104" class="p">and Python ecosystems — <tspan class="hi">React, Next.js, TypeScript</tspan></text>
+    <text x="22" y="128" class="p">up front, <tspan class="hi">Node.js or FastAPI</tspan> behind.</text>
+    <text x="22" y="164" class="p">I care about the parts that are easy to get wrong:</text>
+    <text x="22" y="188" class="p"><tspan class="hi">auth, data modelling</tspan> — and actually shipping.</text>
+  </g>
+  <line x1="22" y1="214" x2="498" y2="214" stroke="#202c26"/>
+  <g class="m" font-size="12">
+    <text x="22" y="244" fill="#2dd49a">▸</text>
+    <text x="38" y="244" fill="#7a8f84">led <tspan fill="#e1f0e8">Affpilot AI</tspan> front-end · <tspan fill="#2dd49a">90k+ users</tspan> · now agentic AI</text>
+  </g>
+
+  <!-- Spec sheet -->
+  <rect x="540.5" y="0.5" width="339" height="269" rx="8" fill="#0e1310" stroke="#202c26"/>
+  <rect x="540.5" y="0.5" width="339" height="269" rx="8" fill="url(#bp)"/>
+  <rect x="540.5" y="0.5" width="339" height="40" rx="8" fill="#121814"/>
+  <rect x="540.5" y="30" width="339" height="11" fill="#121814"/>
+  <line x1="541" y1="40.5" x2="879" y2="40.5" stroke="#202c26"/>
+  <circle class="dot" cx="562" cy="21" r="3.5" fill="#2dd49a"/>
+  <text x="574" y="25" class="m lbl">SPEC SHEET</text>
+  <text x="860" y="25" text-anchor="end" class="m lbl">ID · PUBLIC</text>
+
+  <g transform="translate(562 70)">
+    <text class="m k">BASED IN</text>
+    <text y="20" class="d v">Dhaka, Bangladesh <tspan class="m" font-size="11" font-weight="400" fill="#7a8f84">UTC+6</tspan></text>
+    <text y="56" class="m k">ROLE</text>
+    <text y="76" class="d v">Software Engineer · FlowGenX AI</text>
+    <text y="112" class="m k">FOCUS</text>
+    <text y="132" class="d v">Agentic AI · public APIs · SaaS</text>
+    <text y="168" class="m k">RISING NOW</text>
+    <text y="188" class="d v"><tspan fill="#f5b84a">Rust</tspan> · <tspan fill="#f5b84a">Go</tspan> <tspan class="m" font-size="11" font-weight="400" fill="#7a8f84">after C, Java, TS, Python</tspan></text>
+  </g>
+</svg>
