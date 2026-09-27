@@ -1,0 +1,37 @@
+name: Contribution signal
+
+# Rebuilds activity.svg (contribution grid + streaks) in the portfolio palette,
+# so the README never depends on a third-party stats card.
+on:
+  schedule:
+    - cron: "15 0 * * *" # daily, 06:15 Dhaka
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [scripts/activity.mjs, .github/workflows/activity.yml]
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Generate activity.svg
+        run: node scripts/activity.mjs
+        env:
+          # A personal token (ACTIVITY_TOKEN) is used if set, so private
+          # contributions are counted; otherwise the built-in token.
+          GITHUB_TOKEN: ${{ secrets.ACTIVITY_TOKEN || secrets.GITHUB_TOKEN }}
+      - name: Commit if changed
+        run: |
+          git diff --quiet activity.svg && exit 0
+          git config user.name "github-actions[bot]"
+          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+          git add activity.svg
+          git commit -m "Update contribution signal"
+          git push
