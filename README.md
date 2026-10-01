@@ -31,14 +31,24 @@
 | **Swelter** | Thermal comfort — Heat Index, WBGT, UTCI, wind chill | `TS · Express` | [live ↗](https://swelter-dev.vercel.app) |
 | **Declino** | Geomagnetic field — declination, drift, true↔magnetic | `TS · geomagnetism` | [live ↗](https://declino.vercel.app) |
 
-## `03` The Fleet &nbsp;<sub>`60+ SHIPPED`</sub>
+## `03` Doetra &nbsp;<sub>`FLAGSHIP · BUILT SOLO`</sub>
+
+> My own product suite — an AI writing SaaS plus free in-browser studios, each on its own Doetra subdomain.
+
+| Product | What it is | Built with | |
+| :-- | :-- | :-- | :-: |
+| **Doetra** | AI SEO article-generator SaaS — research, write, publish, billing | `Next · Node · Stripe` | [doetra.com ↗](https://doetra.com) |
+| **Doetra Video Studio** | Free in-browser video editor — 29 tools in one edit stack, pro colour grading, no upload, no watermark | `Next 16 · WebGL2 · Mediabunny` | [video.doetra.com ↗](https://video.doetra.com) |
+| **Doetra BG Remover** | AI background removal in the browser, HD edges | `Next · ONNX · WebGPU` | [live ↗](https://doetra-bg-remover.vercel.app) |
+| **Doetra Photo Restorer** | Old-photo restoration — scratches, faces, colour | `Next · ONNX · WebGPU` | [live ↗](https://doetra-photo-restorer.vercel.app) |
+
+## `04` The Fleet &nbsp;<sub>`60+ SHIPPED`</sub>
 
 > A few of the 60+ live products I've shipped — clients, studios, and in-browser AI tools.
 
 | App | What it is | Built with | |
 | :-- | :-- | :-- | :-: |
 | **Parallax** | Your sky, right now — live Sun/Moon radar & orrery, EN/বাংলা | `Vite · React · TS` | [live ↗](https://parallax-dev567.vercel.app) |
-| **Doetra** | AI SEO article-generator SaaS — built solo, end to end | `Next · Node · Stripe` | [live ↗](https://app.doetra.com) |
 | **Awqat** | Prayer & fasting timetable studio — cards/posters, EN/BN/AR | `React · Vite` | [live ↗](https://awqat-dev.vercel.app) |
 | **Vanish** | In-browser AI object eraser — paint over, AI inpaints it away | `React · ONNX · LaMa` | [live ↗](https://vanish-bice.vercel.app) |
 | **Quill** | In-browser PDF editor — fill, sign, redact, merge | `React · pdf-lib` | [live ↗](https://quill-rho-mauve.vercel.app) |
@@ -48,7 +58,7 @@
 <a href="https://my-portfolio-seven-delta-60.vercel.app"><img src="https://img.shields.io/badge/%E2%96%B8%20explore%20all%2060%2B%20on%20the%20portfolio-0e1310?style=for-the-badge&logo=vercel&logoColor=2dd49a" alt="portfolio" /></a>
 </div>
 
-## `04` Rising Now &nbsp;<sub>`CURRENT FOCUS`</sub>
+## `05` Rising Now &nbsp;<sub>`CURRENT FOCUS`</sub>
 
 Building agentic-AI integrations at **FlowGenX AI**, and leveling up systems languages.
 
@@ -59,7 +69,7 @@ Building agentic-AI integrations at **FlowGenX AI**, and leveling up systems lan
 <img src="https://img.shields.io/badge/FlowGenX%20AI-0e1310?style=for-the-badge&logo=rocket&logoColor=2dd49a" alt="FlowGenX AI" />
 </p>
 
-## `05` Systems Stack &nbsp;<sub>`TECH I BUILD WITH`</sub>
+## `06` Systems Stack &nbsp;<sub>`TECH I BUILD WITH`</sub>
 
 **▸ Languages**
 
@@ -140,7 +150,7 @@ Building agentic-AI integrations at **FlowGenX AI**, and leveling up systems lan
 <img src="https://img.shields.io/badge/Figma-0e1310?style=flat&logo=figma&logoColor=2dd49a" />
 </p>
 
-## `06` Source Activity &nbsp;<sub>`@SAIMON8420`</sub>
+## `07` Source Activity &nbsp;<sub>`@SAIMON8420`</sub>
 
 <div align="center">
 
@@ -152,7 +162,7 @@ Building agentic-AI integrations at **FlowGenX AI**, and leveling up systems lan
 
 </div>
 
-## `07` Uplink &nbsp;<sub>`CHANNELS OPEN`</sub>
+## `08` Uplink &nbsp;<sub>`CHANNELS OPEN`</sub>
 
 <div align="center">
 
