@@ -50,7 +50,7 @@
 | :-- | :-- | :-- | :-: |
 | **Parallax** | Your sky, right now — live Sun/Moon radar & orrery, EN/বাংলা | `Vite · React · TS` | [live ↗](https://parallax-dev567.vercel.app) |
 | **Awqat** | Prayer & fasting timetable studio — cards/posters, EN/BN/AR | `React · Vite` | [live ↗](https://awqat-dev.vercel.app) |
-| **Vanish** | In-browser AI object eraser — paint over, AI inpaints it away | `React · ONNX · LaMa` | [live ↗](https://vanish-bice.vercel.app) |
+| **Doetra Magic Eraser** | Tap anything in a photo and in-browser AI erases it, at full size | `Next.js · ONNX · SAM` | [live ↗](https://doetra.com/magic-eraser) |
 | **Quill** | In-browser PDF editor — fill, sign, redact, merge | `React · pdf-lib` | [live ↗](https://quill-rho-mauve.vercel.app) |
 | **Capsy** | Video auto-captioner — Whisper transcribes & burns subtitles | `React · Whisper` | [live ↗](https://capsy-two.vercel.app) |
 
